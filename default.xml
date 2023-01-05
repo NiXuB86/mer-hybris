@@ -375,7 +375,7 @@
 -->
   <project path="external/objenesis" name="platform/external/objenesis" groups="pdk" remote="aosp" />
   <project path="external/oj-libjdwp" name="platform/external/oj-libjdwp" groups="pdk" remote="aosp" />
-  <project path="external/okhttp" name="platform/external/okhttp" groups="pdk" remote="aosp" />
+  <project path="external/okhttp" name="NiXuB86/okhttp" groups="pdk" />
 <!--
   <project path="external/one-true-awk" name="LineageOS/android_external_one-true-awk" groups="pdk" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" remote="aosp" />
